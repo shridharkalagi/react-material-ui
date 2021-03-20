@@ -1,0 +1,6 @@
+{
+  "projects": {
+    "default": "react-material-ui-sample",
+    "dev": "react-material-ui-sample"
+  }
+}
